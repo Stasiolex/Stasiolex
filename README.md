@@ -1,22 +1,35 @@
-<h1 align="center">Hi 👋, I'm Stasiolex</h1>
-<h3 align="center">A passionate India food enjoyer</h3>
+<h1 align="center">Hey I'm Indian food enjoyer!</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stasiolex&label=Profile%20views&color=0e75b6&style=flat" alt="stasiolex" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stasiolex" alt="stasiolex" /></a> </p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="60" alt="fedora logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="60" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+</div>
 
-- 🌱 I’m currently learning **C++**
+###
 
-<p align="left">
-</p>
+<div align="center">
+  <a href="https://stackoverflow.com/users/31582820/stasiolex" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<!-- other icons omitted for brevity -->
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stasiolex&show_icons=true&theme=dark&locale=en" alt="stasiolex" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stasiolex&theme=dark" alt="stasiolex" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stasiolex&show_icons=true&theme=dark&locale=en&layout=compact" alt="stasiolex" /></p>
+###
