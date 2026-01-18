@@ -1,4 +1,4 @@
-<h1 align="center">Hey I'm Indian food enjoyer!</h1>
+<h1 align="center"></h1>
 
 ###
 
