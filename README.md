@@ -25,14 +25,6 @@
 ###
 
 <div align="center">
-  <a href="https://stackoverflow.com/users/31582820/stasiolex" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=stasiolex&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
